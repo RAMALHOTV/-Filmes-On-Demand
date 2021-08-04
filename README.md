@@ -26,7 +26,7 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 
 
-#EXTINF:-1 tvg-logo="https://imagens." group-title="Filmes On Demand",Os Últimos Dias de Billy the Kid Filmes On Demand
+#EXTINF:-1 tvg-logo="https://imagens." group-title="Filmes On Demand", Filmes On Demand
 http://videos.nxplay
 #EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60b40d23c300b_4f53d06640cfdd2f881c54491bc1b0b6.jpg" group-title="Filmes On Demand",Os Últimos Dias de Billy the Kid
 http://videos.nxplay.com.br/hls/e325134cbce311ebad891615f31c5c36/video_1.m3u8
